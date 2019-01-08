@@ -1,6 +1,6 @@
 ### ebaen
 ---
-https://ebean.io/\
+https://ebean.io/
 
 ```
 ```
